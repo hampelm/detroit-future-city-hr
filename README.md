@@ -1,4 +1,4 @@
-[The Detroit Future City Framework](detroitframework.com)
+[The Detroit Future City Framework](http://detroitframework.com)
 ======================
 
 We're putting the framework online, one page at a time. 
